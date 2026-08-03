@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <style>
+            h1{
+                color: coral;
+                background-color: darkblue;
+                font-family: 'irebuchet';
+                
+            }
+            h2{
+                color: crim;
+            font-size: 400;
+            font-family: Courier;
+            font font-style: itallic;
+            
+            }
+        </style>
+    </head>
+    <body>
+        <h1>profile</h1>
+        <h2>my porfollio</h2>
+    </body>
+</html>
